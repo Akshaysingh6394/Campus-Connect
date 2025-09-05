@@ -1,4 +1,4 @@
-# EXQUISITE - EVENT-MANAGEMNET-SYSTEM
+# EXQUISITE - Campus - Connect
 
 PPT : [Click Here](https://docs.google.com/presentation/d/1ChT6H6wb5OIiYuz-tZQBNC8b2-ZIeDcy/edit#slide=id.p1)
 <br>
